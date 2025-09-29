@@ -1,3 +1,11 @@
+# Disclaimer
+
+This is based on the the original work from:
+
+https://github.com/clydemcqueen/tello_ros
+
+I'm not sure who fixed the code to be compatible with Ubuntu 24.04 and Jazzy, but I'm using it successfully.
+
 # `tello_ros`
 
 `tello_ros` is a ROS2 driver for Tello and Tello EDU drones.
